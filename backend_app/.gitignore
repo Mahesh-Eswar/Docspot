@@ -1,0 +1,53 @@
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# TypeScript cache files
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for compiled output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+.idea/
+.project
+.classpath
+.c9/
+*.sublime-project
+*.sublime-workspace
+
+# macOS specific
+.DS_Store
+
+# Thumbs.db for Windows
+Thumbs.db
+
+# User-specific files that you don't want to commit
+# For example, if you have any temporary files or specific editor configurations
